@@ -1,0 +1,2 @@
+INSERT INTO teacher (name, department) VALUES ('Tyuremnov Ivan Sergeevich', 'Hydraulic and pneumatic systems');
+INSERT INTO teacher (name, department) VALUES ('Furmanov Denis Vladimirovich', 'design of machines and mechanisms');
